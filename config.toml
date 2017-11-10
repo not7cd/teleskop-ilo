@@ -1,0 +1,20 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Teleskop w ILO"
+author = "Norbert Szulc"
+canonifyurls = true
+languagecode = "pl"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Teleskop w ILO"
+
+[[menu.main]]
+    name = "Dokumentacja"
+    url  = "dokumentacja"
+[[menu.main]]
+    name = "Galeria"
+    url  = "galeria"
