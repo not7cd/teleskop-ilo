@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumenty on Teleskop w ILO</title>
+    <link>/dokumentacja/</link>
+    <description>Recent content in Dokumenty on Teleskop w ILO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 21:31:03 +0100</lastBuildDate>
+    
+	<atom:link href="/dokumentacja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dokumentacja z 1970</title>
+      <link>/dokumentacja/dokumentacja-z-1970/</link>
+      <pubDate>Mon, 10 Apr 2017 21:31:03 +0100</pubDate>
+      
+      <guid>/dokumentacja/dokumentacja-z-1970/</guid>
+      <description>Na końcu strony znajduje się skan oryginalnej dokumentacji sporządzonej przez twórców teleskopu.
+Poniżej załączona fotografia i schemat działania. Pliki Skan dokumentacji budowy teleskopu z 1970 (PDF, 11 MB)</description>
+    </item>
+    
+  </channel>
+</rss>
