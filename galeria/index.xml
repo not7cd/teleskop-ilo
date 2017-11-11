@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galeria on Teleskop w ILO</title>
-    <link>/galeria/</link>
+    <link>http://not7cd.net/teleskop-ilo/galeria/</link>
     <description>Recent content in Galeria on Teleskop w ILO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Mar 2017 14:54:34 +0100</lastBuildDate>
     
-	<atom:link href="/galeria/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://not7cd.net/teleskop-ilo/galeria/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pierwsze Rozpoznanie</title>
-      <link>/galeria/pierwsze-rozpoznanie/</link>
+      <link>http://not7cd.net/teleskop-ilo/galeria/pierwsze-rozpoznanie/</link>
       <pubDate>Thu, 09 Mar 2017 14:54:34 +0100</pubDate>
       
-      <guid>/galeria/pierwsze-rozpoznanie/</guid>
+      <guid>http://not7cd.net/teleskop-ilo/galeria/pierwsze-rozpoznanie/</guid>
       <description>Udało mi się dotrzeć do miejsca gdzie przechowywany jest teleskop. Jest w fatalnym stanie. </description>
     </item>
     
