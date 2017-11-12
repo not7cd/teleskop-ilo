@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Teleskop w ILO"
+description = "Kronika dziejów obserwatorium w I Liceum Ogólnokształcącym im. Mikołaja Kopernika, i sprzętom z nim związanym"
 author = "Norbert Szulc"
 canonifyurls = true
 languagecode = "pl"
