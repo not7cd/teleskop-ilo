@@ -13,8 +13,11 @@ pygmentscodefences  = true
   sitename = "Teleskop w ILO"
 
 [[menu.main]]
-    name = "Dokumentacja"
-    url  = "dokumentacja"
+    name = "Kontakt"
+    url  = "kontakt"
+    weight = 10
+
 [[menu.main]]
-    name = "Galeria"
-    url  = "galeria"
+    name = "Kolofon"
+    url  = "kolofon"
+    weight = 0

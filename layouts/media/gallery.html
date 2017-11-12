@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<section id=content>
+
+  <div class="entry-content">
+    {{ .Content }}
+    
+
+    <ul>
+    {{ range (readDir $path) }}
+	    <li>
+        <a href="{{ $path + .Name }}">
+	    	  {{ .Name }}
+        </a>
+	    </li>
+    {{ end }}
+    </ul>
+
+  </div>
+
+</section>
+
+{{ partial "footer.html" . }}
+
+
