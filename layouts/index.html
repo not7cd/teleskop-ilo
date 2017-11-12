@@ -6,7 +6,7 @@
   </div>
 
   <ul class=posts_listing>
-    {{ range where .Data.Pages.ByPublishDate "Section" "post" }}
+    {{ range where .Data.Pages "Section" "post" }}
       <li>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <div id=date>
