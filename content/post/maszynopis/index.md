@@ -9,4 +9,4 @@ Poniżej załączona fotografia i schemat działania.
 ![Schemat](post/maszynopis/schemat.png)
 
 # Pliki
-[Skan dokumentacji budowy teleskopu z 1970 (PDF, 11 MB)](dokumentacja/teleskop_ilo_dokumentacja.pdf)
+[Skan dokumentacji budowy teleskopu z 1970 (PDF, 11 MB)](post/maszynopis/teleskop_ilo_dokumentacja.pdf)
