@@ -7,11 +7,9 @@
     
 
     <ul>
-    {{ range (readDir $path) }}
+    {{ range (readDir ".") }}
 	    <li>
-        <a href="{{ $path + .Name }}">
 	    	  {{ .Name }}
-        </a>
 	    </li>
     {{ end }}
     </ul>
