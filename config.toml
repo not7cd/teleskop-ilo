@@ -13,10 +13,10 @@ pygmentscodefences  = true
 [params]
   sitename = "Teleskop w ILO"
 
-# [[menu.main]]
-#     name = "Kontakt"
-#     url  = "kontakt"
-#     weight = 10
+[[menu.main]]
+    name = "Galeria"
+    url  = "galeria"
+    weight = 10
 
 [[menu.main]]
     name = "Kolofon"
