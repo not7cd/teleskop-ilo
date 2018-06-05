@@ -22,3 +22,8 @@ pygmentscodefences  = true
     name = "Kolofon"
     url  = "kolofon"
     weight = 0
+
+[[menu.main]]
+    name = "RSS"
+    url  = "index.xml"
+    weight = -30
